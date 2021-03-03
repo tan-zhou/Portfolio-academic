@@ -1,7 +1,7 @@
 ---
 title: Tan Zhou
 role: UX Researcher
-avatar_filename: tan_profile_picture.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
