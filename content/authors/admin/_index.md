@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: Understanding user experience through cnotextual researh and usability tests.
 interests:
   - Tech Gadgets
-  - Ubiqutous Computing
+  - Ubiquitous Computing
   - Personal Informatics
   - Computer Hardware
   - Graphic Design
