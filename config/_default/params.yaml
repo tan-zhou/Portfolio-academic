@@ -38,7 +38,7 @@ email: tanzhouinfo@gmail.com
 #  - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com/tanzhouinfo/30min'
 contact_links:
-    - icon: linkedin
+  - icon: linkedin
     icon_pack: fab
     name: LinkedIn 
     link: https://www.linkedin.com/in/tan-zhou/
