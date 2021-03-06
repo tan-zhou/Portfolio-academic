@@ -4,15 +4,13 @@ role: UX Researcher
 avatar_filename: avatar.jpg
 bio: Understanding user experience through cnotextual researh and usability tests.
 interests:
-  - Tech Gadgets
   - Ubiquitous Computing
   - Personal Informatics
-  - Computer Hardware
+  - Tech Gadgets
   - Graphic Design
   - Culinary Art
-  - Self-tracking Technology
+  - Wearable Technology
   - Active Lifestyle
-  - Language Learning
 social:
   - icon: linkedin
     icon_pack: fab
