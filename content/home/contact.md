@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: Have questions about my work? Interested in collaborating? Simply connect with me → ⇒
+subtitle: Have questions about my work? Interested in collaborating?<br/>Simply connect with me → 
 
 content:
   # Automatically link email and phone or display as text?
