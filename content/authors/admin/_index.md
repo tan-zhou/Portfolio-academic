@@ -52,4 +52,4 @@ I'm Tan, a UX researcher with 4 years of experience conducting generative and ev
 
 **Software**: R, C++, Survey Monkey, Figma, Miro, User Interview, UserZoom, Adobe Creative Suite, HTML, Google Suite  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
