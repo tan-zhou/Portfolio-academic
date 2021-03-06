@@ -2,14 +2,15 @@
 title: Tan Zhou
 role: UX Researcher
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Understanding user experience through cnotextual researh and usability tests.
 interests:
   - Tech Gadgets
+  - Ubiqutous Computing
+  - Personal Informatics
   - Computer Hardware
   - Graphic Design
   - Culinary Art
-  - Self-tracking Device
+  - Self-tracking Technology
   - Active Lifestyle
   - Language Learning
 social:
@@ -38,6 +39,9 @@ education:
     - course: B.E. in Electrical Engineering
       institution: University of Electronic Science and Technology of China
       year: 2017
+    - course: Guest Undergradaute Student
+      institution: University of Michigan - Dearborn
+      year: 2015
 email: ""
 superuser: true
 highlight_name: false
