@@ -41,7 +41,7 @@ image:
 
 **Client:** [Dakuo Wang, IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Dakuo.Wang) 
 </br>
-----
+</br>
 </br>
 
 ## Objective
@@ -98,7 +98,7 @@ A fundamental requirement of a Wizard of Oz study is that the participants can n
 {{< figure src="chatbot2.png" caption="Prototype Chatbot `Introduction` Function" >}}
 {{< figure src="chatbot3.png" caption="Prototype Chatbot `Encourage` & `Response` Function" >}}
 
-One challenge for us is how can we ensure that participants won’t find out what’s behind the curtain. We leverage AutoHotKey, a scripting software that allows the test operator to send pre-scripted messages with keyboard shortcuts, to simulate the speed, accuracy, and efficiency of a real-world chatbot system. And the chatbot agent is responsible to determine when to send which message. 
+{{<hl>}} The challenge for us is how can we ensure that participants won’t find out what’s behind the curtain.{{</hl>}} We leverage [AutoHotKey](https://www.autohotkey.com/), a scripting software that allows the test operator to send pre-scripted messages with keyboard shortcuts, to simulate the speed, accuracy, and efficiency of a real-world chatbot system. And the chatbot agent is responsible to determine when to send which message. 
 
 ### User Testing
 
