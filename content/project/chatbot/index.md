@@ -41,9 +41,7 @@ image:
 
 **Client:** [Dakuo Wang, IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Dakuo.Wang) 
 </br>
-</br>
 ----
-</br>
 </br>
 
 ## Objective
@@ -96,7 +94,9 @@ Combing the quantitive and qualitative findings, we feel confident to develop pr
 Due to the fact that it is difficult to insert chatbot function into this mature and complex game system and the time is limited, we have decided to use a Wizard of Oz study, where a human operator will play as the chatbot in testing sessions. 
 
 A fundamental requirement of a Wizard of Oz study is that the participants can not realize that it is a human sitting behind the curtain during the study. They must believe it is a fully automated chatbot that they are interacting with. 
-![Prototype Chatbot "Introduction" Function](chatbot2.png)![Prototype Chatbot "Encourage" & "Response" Function](chatbot3.png)
+
+{{< figure src="chatbot2.png" caption="Prototype Chatbot "Introduction" Function" >}}
+{{< figure src="chatbot3.png" caption="Prototype Chatbot "Encourage" & "Response" Function" >}}
 
 One challenge for us is how can we ensure that participants won’t find out what’s behind the curtain. We leverage AutoHotKey, a scripting software that allows the test operator to send pre-scripted messages with keyboard shortcuts, to simulate the speed, accuracy, and efficiency of a real-world chatbot system. And the chatbot agent is responsible to determine when to send which message. 
 
