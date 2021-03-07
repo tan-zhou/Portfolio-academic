@@ -19,7 +19,6 @@ image:
   preview_only: false
   caption: 'Image Credit: [**Riot Games, Inc.**](https://www.riotgames.com/en)'
 ---
-{{< toc >}} 
 
 ## Overview
 
@@ -27,11 +26,9 @@ image:
 
 **Project Overview:** The big overarching question is to understand: How can the chatbot help facilitate collaborations among a temporarily assembled team in League of Legends? 
 
-**Methods:** Interviews, Focus groups, Surveys, Thematics Analysis, Observations 
+**Methods:** Interviews, Focus Groups, Surveys, Thematics Analysis, Observations, Moderated Usability Test, Descriptive Statistical Analysis 
 
-**Data Sources:** Interview transcripts, field notes, surveys, and in-game chat logs 
-
-**Skills:** Interviewing, descriptive statistical analysis, thematic analysis, usability testings, survey
+**Data Sources:** Interview Transcripts, Observation Notes, Survey Result, and In-game Chat Logs 
 
 **Deliverables:** 1. Research report and 2. Chatbot Prototype
 
@@ -41,7 +38,9 @@ image:
 
 **Client:** [Dakuo Wang, IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Dakuo.Wang) 
 </br>
-</br>
+
+{{< toc >}} 
+
 </br>
 
 ## Objective
