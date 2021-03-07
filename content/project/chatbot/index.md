@@ -41,12 +41,14 @@ image:
 
 **Client:** [Dakuo Wang, IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Dakuo.Wang) 
 
+----
+
 ## Objective
 
 * Understand what obstacles that impede collaborations among a temporarily assembled team in a League of Legends game
 * Understand how might a chatbot help facilitate players collaborate with strangers on their team 
 * Evaluate the usability of chatbot’s 
-
+----
 ## Opportunity and Process
 
 ### Opportunity  
@@ -63,6 +65,8 @@ A varsity of UX research approaches was used to design the chatbot. 
 2. To determine the chatbot functions, surveys were conducted  
 3. Build a chatbot prototype with learnings from the previous two steps
 4. Conducted a Wizard of Oz experiment to verify the usability of the functions
+
+----
 
 ## Strategy 
 
@@ -97,20 +101,22 @@ A fundamental requirement of a Wizard of Oz study is that the participants (four
 
 (Testing design diagram)
 
+----
+
 ## Outcomes
 
 **Objective 1**
 
 > Understand what obstacles that impede collaborations among a temporarily assembled team in a League of Legends game
 
-* After the analysis of interview transcripts, the frequencies of codes indicated the following codes were mentioned the most: 
+After the analysis of interview transcripts, the frequencies of codes indicated the following codes were mentioned the most: 
 * “Play as a team”: Players don’t feel like they were playing as a team and want to enhance team collaboration. 
 * “Extra information”: Players are not getting enough from the game’s built-in mechanism and want more information
 * “Communication”: Players find it difficult to communicate with teammates. 
 * “Encouragement”: Payers expect the chatbot to send encouragement when they played poorly, and praise when they played well  
 * “Chatbox”: Players feel the current chat box in the game is difficult to use
 
-![](https://lh5.googleusercontent.com/E0vwjb36IFxG1rVyk_ffbE_ljuq4izQLLIZxJQJMMSMVt-zxibbXRGZTf16ptXGQXMy06WmnA6pFgFPMkNDtXx7ZGJyLfNRIGkoRzLGqJgIvg1sG0bszBXU7yK-rpCtz61npGoI8)![](https://lh6.googleusercontent.com/wAq2MSR-s6f9Lavky607T-v0HpwmT8hnJAfze_iSycc6NhfahD4QGasNvKMuqBVO5dYb-KFxPGF93rvXmUqBu139FQQvrV3K-hUoDTC3p5DHDxWIyuJrMrhStfW0LKjTStcHBMF5 "Frequency visualization of the top codes ")
+![Frequency visualization for top codes](https://lh6.googleusercontent.com/wAq2MSR-s6f9Lavky607T-v0HpwmT8hnJAfze_iSycc6NhfahD4QGasNvKMuqBVO5dYb-KFxPGF93rvXmUqBu139FQQvrV3K-hUoDTC3p5DHDxWIyuJrMrhStfW0LKjTStcHBMF5)
 
 **Objective 2** 
 
@@ -152,7 +158,7 @@ The few functions that asked which lanes players would play in before the game s
 The chatbot was appreciated to some extent on every measured scale. Participants strongly indicated that they enjoyed the chatbot’s personality, appreciated the chatbot asking others to help them, felt that the chatbot made them feel like part of the team, and believed the chatbot helped them coordinate. Since these were the primary functions that the chatbot was meant to fulfill, we can say that in these trials at least it was a success.
 
 Players show weaker indications that they wanted to use the chatbot, that it had an effect on the game, that it helped them play “better,” that it was integrated seamlessly into the game, and that it did not interfere with their play experience.
-
+----
 ## Key Takeaways 
 
 ### The Positives😀:
@@ -178,7 +184,7 @@ Players show weaker indications that they wanted to use the chatbot, that it had
 
 - Reliablity: We used players' self-reported perceptions of teamwork as our measurement, which negatively impact the reliability of the methods. In retrospect, we could've used a defined set of teamwork behaviors as our metrics. 
 
-
+----
 ## Conclusion
 
 In this project, we explored the use of a chatbot in League of Legends and its influence on team collaboration in games. At the initial stage of the project, we used multiple various methods to study players’ issues and needs, including interviews, focus groups, and surveys. Later, we built a prototype based on our research results and verified the model in two rounds of user tests using the Wizard-of-Oz method. Finally, both qualitative and quantitative methods were employed in the analysis of test results. 
