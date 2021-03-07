@@ -18,7 +18,6 @@ image:
   preview_only: false
   caption: 'Image Credit: [**Sanpchat, Inc. on Screen Rant**](https://screenrant.com/snapchat-stickers-premade-custom-snaps-explained/)'
 ---
-{{< toc >}} 
 
 ## Overview
 
@@ -34,11 +33,10 @@ image:
 
 **Tools:** R Studio, JSON, Google Docs, Photoshop, Windows Powershell 
 
-**Background/Context:** When people set health and behavior goals such as training for half-marathon, going to bed earlier, or losing weight, they often use social media to share their progress with friends and family _([Munson, 2012](https://ieeexplore.ieee.org/abstract/document/6240359))_. _[Epstein et al. (2015)](https://dl.acm.org/doi/abs/10.1145/2675133.2675135)_ identified that many people share personal informatics data to receive advisory information, emotional support, motivation, or accountability from their audience. However, prior research has shown that sharing data on social media is often met with ambivalence or no response at all _([Epstein, 2019](https://par.nsf.gov/biblio/10158861))_. 
+**Background/Context:** When people set health and behavior goals such as training for half-marathon, going to bed earlier, or losing weight, they often use social media to share their progress with friends and family ([Munson, 2012](https://ieeexplore.ieee.org/abstract/document/6240359)). [Epstein et al. (2015)](https://dl.acm.org/doi/abs/10.1145/2675133.2675135) identified that many people share personal informatics data to receive advisory information, emotional support, motivation, or accountability from their audience. However, prior research has shown that sharing data on social media is often met with ambivalence or no response at all ([Epstein, 2019](https://par.nsf.gov/biblio/10158861)). 
 </br>
 </br>
 {{< toc >}} 
-</br>
 
 ## Objective
 
@@ -48,8 +46,6 @@ When users send or receive Snapchat stickers that contain personal data about st
 * How do these factors influence user perceptions? 
 </br>
 </br>
-</br>
-
 
 ## Opportunity and Process
 
@@ -65,8 +61,6 @@ we design a series of stickers for Snapchat that contains personal data about st
 
 Through literature review, I identified a series of predictors that potentially have an influence on Snapchat users and evaluation metrics to measure user perceptions. 
 {{< figure src="stickers.png" caption="Samples of data-driven stickers incorperating step counts">}}
-</br>
-</br>
 </br>
 
 ## Strategy
@@ -94,7 +88,6 @@ I used two criteria to decide whether a person should be allowed to participate 
 
 </br>
 </br>
-</br>
 
 ## Outcomes 
 
@@ -108,6 +101,8 @@ The analysis showed that:
 - Context is significant to ratings of Attitude and Entertaining from recipients.
 
 - Stickers design with “Analogy” is perceived to be more exciting to receive than “Plaintext”. 
+</br>
+</br>
 
 ## Conclusion/Reflection
 

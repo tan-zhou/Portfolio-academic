@@ -38,17 +38,15 @@ image:
 
 **Client:** [Dakuo Wang, IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Dakuo.Wang) 
 </br>
+</br>
 
 {{< toc >}} 
-
-</br>
 
 ## Objective
 
 * Understand what obstacles that impede collaborations among a temporarily assembled team in a League of Legends game
 * Understand how might a chatbot help facilitate players collaborate with strangers on their team 
 * Evaluate the usability of chatbot’s 
-</br>
 </br>
 </br>
 
@@ -68,7 +66,6 @@ A varsity of UX research approaches was used to design the chatbot. 
 2. To determine the chatbot functions, surveys were conducted  
 3. Build a chatbot prototype with learnings from the previous two steps
 4. Conducted a Wizard of Oz experiment to verify the usability of the functions
-</br>
 </br>
 </br>
 
@@ -107,7 +104,6 @@ A fundamental requirement of a Wizard of Oz study is that the participants can n
 4. In the end, we measure the performance of the chatbot with extra questions   
 
 (Testing design diagram)
-</br>
 </br>
 </br>
 
@@ -165,7 +161,6 @@ The chatbot was appreciated to some extent on every measured scale. Participants
 Players show weaker indications that they wanted to use the chatbot, that it had an effect on the game, that it helped them play “better,” that it was integrated seamlessly into the game, and that it did not interfere with their play experience.
 </br>
 </br>
-</br>
 
 ## Key Takeaways 
 
@@ -191,7 +186,6 @@ Players show weaker indications that they wanted to use the chatbot, that it had
 - One experienced player found some of the things mentioned by the chatbot quite obvious. But on the flip-side, stated that that would work really well for entry-level players.
 
 - Reliablity: We used players' self-reported perceptions of teamwork as our measurement, which negatively impact the reliability of the methods. In retrospect, we could've used a defined set of teamwork behaviors as our metrics. 
-</br>
 </br>
 </br>
 
