@@ -33,22 +33,22 @@ image:
 
 **Skills:** Interviewing, descriptive statistical analysis, thematic analysis, usability testings, survey
 
-**Deliverables:** 1. research report and 2. Chatbot Prototype
+**Deliverables:** 1. Research report and 2. Chatbot Prototype
 
 **Tools**: Google Docs, Google Slides, Google Forms, Excel, OBS Studio, AutoHotKeys, Slack
 
 **Background/Context:** In this project, the client’s request is for the team to study the usefulness of a chatbot in improving group collaboration. We grounded our research in the context of a League of Legends(LoL) game, where team collaboration is the key theme of the gameplay experience. In an LoL game, the temporarily assembled team meet various challenges in communication and coordination, such as not understanding other player’s intention or unresponded request for help. These challenges, if not resolved, could be detrimental to the team’s win in League’s fast-paced gameplay.    
 
 **Client:** [Dakuo Wang, IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Dakuo.Wang) 
-
-----
-
+</br>
+</br>
 ## Objective
 
 * Understand what obstacles that impede collaborations among a temporarily assembled team in a League of Legends game
 * Understand how might a chatbot help facilitate players collaborate with strangers on their team 
 * Evaluate the usability of chatbot’s 
-----
+</br>
+</br>
 ## Opportunity and Process
 
 ### Opportunity  
@@ -65,9 +65,9 @@ A varsity of UX research approaches was used to design the chatbot. 
 2. To determine the chatbot functions, surveys were conducted  
 3. Build a chatbot prototype with learnings from the previous two steps
 4. Conducted a Wizard of Oz experiment to verify the usability of the functions
+</br>
 
-----
-
+</br>
 ## Strategy 
 
 ### Interview and Focus Groups 
@@ -88,7 +88,10 @@ Combing the quantitive and qualitative findings, we feel confident to develop pr
 
 Due to the fact that it is difficult to insert chatbot function into this mature and complex game system and the time is limited, we have decided to use a Wizard of Oz study, where a human operator will play as the chatbot in testing sessions. 
 
-A fundamental requirement of a Wizard of Oz study is that the participants (four players in this study design) can not realize that it is a human sitting behind the curtain during the study. They must believe it is a fully automated chatbot that they are interacting with. One challenge for us is how can we ensure that participants won’t find out what’s behind the curtain. We leverage AutoHotKey, a scripting software that allows the test operator to send pre-scripted messages with keyboard shortcuts, to simulate the speed, accuracy, and efficiency of a real-world chatbot system. And the chatbot agent is responsible to determine when to send which message. 
+A fundamental requirement of a Wizard of Oz study is that the participants can not realize that it is a human sitting behind the curtain during the study. They must believe it is a fully automated chatbot that they are interacting with. 
+![Prototype Chatbot "Introduction" Function](chatbot2.png)![Prototype Chatbot "Encourage" & "Response" Function](chatbot3.png)
+
+One challenge for us is how can we ensure that participants won’t find out what’s behind the curtain. We leverage AutoHotKey, a scripting software that allows the test operator to send pre-scripted messages with keyboard shortcuts, to simulate the speed, accuracy, and efficiency of a real-world chatbot system. And the chatbot agent is responsible to determine when to send which message. 
 
 ![](https://lh5.googleusercontent.com/gfTNg3A8O8ZXYJl1ris1Xojf1hZQJjKi5HSLfktYS9hO-NjrJ0vAMy5EHRjawZFn-KzUkyBDXxAkcIGxSbrTafWq6uIqoAjGouLFK7PVG86yzJPQtUXzvtHXUY6dKKEcAzgugp3v)![](https://lh3.googleusercontent.com/6HUbA-_na_pWHFQGG8d-iymkfzRdb-kF1kfL_jsRwd8Hliqjg5A9TVYyuvLE9KtgQggVhzvDiDluNiykf_6j1noqbnguUUPU6J7NVbgwqxOuQNEBu0UnwGduyxafbaGw4fL3o5Qz)![](https://lh3.googleusercontent.com/A4EpnAAdyDdC4sfI8MnqT1Ep3tYl1dx1ZPIU9dBQ4Is21buQp0vrpoAKwKI33tS5aK_9e752pv7SuA20gcpV8lHn3WoQB-xY5WBC6KY7P9Tmp3n872jpE0DpHV_pp613jX-nqbYt)
 
@@ -100,9 +103,9 @@ A fundamental requirement of a Wizard of Oz study is that the participants (four
 4. In the end, we measure the performance of the chatbot with extra questions   
 
 (Testing design diagram)
+</br>
 
-----
-
+</br>
 ## Outcomes
 
 **Objective 1**
@@ -124,18 +127,15 @@ After the analysis of interview transcripts, the frequencies of codes indicated 
 
 Medians were calculated for all Likert Scale measurements shown below
 
-From the quantitive data, I learned that
+![](https://lh4.googleusercontent.com/DRfaugOdSjuUdBCDAG7igodhm4F6ezVhTMaGTHB860C5d1h3rSHgqVK43EwS83e_2xN6GKhVbBirDsID6KYwG2ojTpEqyjOrWehAAHptwkd90qkpuiKNrO6VuXceWo9H-GJg6kMn)
 
+From the quantitative results, I learned that
 * All groups overwhelmingly indicated that the “ping” system provides insufficient information to be truly helpful. 
 * A chatbot can facilitate communication by providing contextual information tp “ping” signals 
 * A chatbot that reminders the game would be a welcome feature to the majority of players
 * A chatbot can aid in coordination at the beginning of the game for inexperienced players 
 * A chatbot can help amplify players’ “call for help” when they are under attack
-* A chatbot can encourage players to respond to calls for help
-
-![](https://lh4.googleusercontent.com/DRfaugOdSjuUdBCDAG7igodhm4F6ezVhTMaGTHB860C5d1h3rSHgqVK43EwS83e_2xN6GKhVbBirDsID6KYwG2ojTpEqyjOrWehAAHptwkd90qkpuiKNrO6VuXceWo9H-GJg6kMn)
-
-Age range and frequency of play were found not to have a significant effect on responses. 
+* A chatbot can encourage players to respond to calls for help 
 
 ![](https://lh4.googleusercontent.com/jC09TtJXmxeEk9c22qmt_YY9kpNJKya8TW1S5EuXA0RC9kDdIRoC7sueu1UqH0WkXMLEB8l0Taqjj2IrHpkDce4bNuJLq7MxJZiD6cg2al-h_tEmGFLlZ-8_7XNLXgTwBvqfBMYg)
 
@@ -158,7 +158,9 @@ The few functions that asked which lanes players would play in before the game s
 The chatbot was appreciated to some extent on every measured scale. Participants strongly indicated that they enjoyed the chatbot’s personality, appreciated the chatbot asking others to help them, felt that the chatbot made them feel like part of the team, and believed the chatbot helped them coordinate. Since these were the primary functions that the chatbot was meant to fulfill, we can say that in these trials at least it was a success.
 
 Players show weaker indications that they wanted to use the chatbot, that it had an effect on the game, that it helped them play “better,” that it was integrated seamlessly into the game, and that it did not interfere with their play experience.
-----
+</br>
+
+</br>
 ## Key Takeaways 
 
 ### The Positives😀:
@@ -183,10 +185,13 @@ Players show weaker indications that they wanted to use the chatbot, that it had
 - One experienced player found some of the things mentioned by the chatbot quite obvious. But on the flip-side, stated that that would work really well for entry-level players.
 
 - Reliablity: We used players' self-reported perceptions of teamwork as our measurement, which negatively impact the reliability of the methods. In retrospect, we could've used a defined set of teamwork behaviors as our metrics. 
+</br>
 
-----
+</br>
 ## Conclusion
 
 In this project, we explored the use of a chatbot in League of Legends and its influence on team collaboration in games. At the initial stage of the project, we used multiple various methods to study players’ issues and needs, including interviews, focus groups, and surveys. Later, we built a prototype based on our research results and verified the model in two rounds of user tests using the Wizard-of-Oz method. Finally, both qualitative and quantitative methods were employed in the analysis of test results. 
 
 As a result, we received positive feedback on the usefulness of our chatbot which suggests that our chatbot did improve players’ collaborations with their teammates without breaking the fairness in the game. Yet, there are still limitations to this project. More features can be added to the next iteration of the chatbot and new evaluation metrics should be employed to improve reliability.   
+
+## Deliverable
