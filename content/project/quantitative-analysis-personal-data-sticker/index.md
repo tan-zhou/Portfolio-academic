@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: '""'
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
