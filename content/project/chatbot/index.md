@@ -1,18 +1,26 @@
 ---
 title: "Usability Design: League of Legend Chatbot"
-date: 2019-03-07T01:00:00.000Z
+date: "2019-03-07T01:00:00.000Z"
+tags:
+- Usability Evaluation
+- Generative Research 
+- Survey 
+- Interview
+
 summary: How can the chatbot help facilitate collaborations among a temporarily
   assembled team in League of Legends?
 draft: false
 featured: false
-external_link: h
-links: []
+external_link: ""
+
+
 image:
-  filename: https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/League_of_Legends_Cover.jpg/revision/latest?cb=20191018222445
   focal_point: Smart
   preview_only: false
-  caption: "Image Credit: Riot Games, Inc. "
+  caption: "Image Credit: Riot Games, Inc."
 ---
+{{< toc >}} 
+
 ## Overview
 
 **My Role:** Lead UX Researcher in a team of 4 researchers and 2 developers. I contributed to every step of the project 
@@ -137,8 +145,6 @@ Chart 1 gives some insight into how players generally saw improvements in every 
 
  As this was one of the primary goals of the project, we can tentatively say that we were successful in improving teamwork in the two games that were played with the chatbot. 
 
-## Deliverables 
-
 The few functions that asked which lanes players would play in before the game started also may have facilitated a greater sense of coordination. Reinforcement of player requests with chatbot phrases encouraging aid may have led to an increase of players’ perceptions of speedy responses and ease of getting help. The chatbot making teammates aware of what a player needed may have also led to greater awareness of teammates’ expectations. 
 
 ![](https://lh3.googleusercontent.com/w_0Pg5ij_T3-HYDx1bA12TDDTSMMh4uq0unU7hjRHryWYO2HRnZ5VWABSp-tWiM3r_oSo4NipL1m3g5Czn8K5j9mon33NOw6bwEqVjVQ26wqDysockbML3-nUe78K1M2mZJgRL9h)
@@ -147,34 +153,34 @@ The chatbot was appreciated to some extent on every measured scale. Participants
 
 Players show weaker indications that they wanted to use the chatbot, that it had an effect on the game, that it helped them play “better,” that it was integrated seamlessly into the game, and that it did not interfere with their play experience.
 
-## Reflection/Key Takeaways 
+## Key Takeaways 
 
-### The Positives😀:###
+### The Positives😀:
 
-**Did the chatbot help players to "collaborate” better?** 
+- **Did the chatbot help players to "collaborate” better?** </br>
 **YES.** Whether it was direct or indirect collaboration. The burden of coordinating with teammates was alleviated.
 
-**Was the chatbot intrusive to their gaming experience?** 
+- **Was the chatbot intrusive to their gaming experience?**</br>
 **No.** It was easy for them to ignore messages that they didn’t care about and reminded them about helping/coordinating with their teammates.
 
-**Was the Wizard of Oz Study successful? 
-Yes!** A player asked me how we made the bot work so seamlessly.  LOL (pun-intended)
+- **Was the Wizard of Oz Study successful?**</br> 
+**Yes!** A player asked me how we made the bot work so seamlessly.  LOL (pun-intended)
 
-Features of the chatbot were appreciated, especially Personality, functions, and encouragement.
+- Features of the chatbot were appreciated, especially Personality, functions, and encouragement.
 
-### The negatives🙁:### 
+### The negatives🙁: 
 
-A player mistook the chatbot to be another player sometimes. 
+- One player mistook the chatbot to be another player for a few moments. 
 
-Bit of distraction caused by the messages. A player was looking more at the chat-box now rather than the map to draw information.
+- Distraction caused by the messages. One player was looking more at the chat-box now rather than the map to draw information.
 
-An experienced player found some of the things mentioned by the chatbot quite obvious. But on the flip-side, stated that that would work really well for entry-level players.
+- One experienced player found some of the things mentioned by the chatbot quite obvious. But on the flip-side, stated that that would work really well for entry-level players.
 
-Evaluation metrics: When we were trying to measure teamwork, we asked the player to self-report their perceptions of teamwork. These are not the strongest evidence to support the conclusion and might get contested when we present our results. One way to improve on this matter is to use define a set of teamwork behaviors and measure the occurrence of those behaviors. 
+- Reliablity: We used players' self-reported perceptions of teamwork as our measurement, which negatively impact the reliability of the methods. In retrospect, we could've used a defined set of teamwork behaviors as our metrics. 
 
 
 ## Conclusion
 
 In this project, we explored the use of a chatbot in League of Legends and its influence on team collaboration in games. At the initial stage of the project, we used multiple various methods to study players’ issues and needs, including interviews, focus groups, and surveys. Later, we built a prototype based on our research results and verified the model in two rounds of user tests using the Wizard-of-Oz method. Finally, both qualitative and quantitative methods were employed in the analysis of test results. 
 
-As a result, we received positive feedback on the usefulness of our chatbot which suggests that our chatbot did improve players’ collaborations with their teammates without breaking the fairness in the game. Yet, there are still limitations to this project. More features can be added to the next iteration of the chatbot and improvement can be made in the design with future research.   
+As a result, we received positive feedback on the usefulness of our chatbot which suggests that our chatbot did improve players’ collaborations with their teammates without breaking the fairness in the game. Yet, there are still limitations to this project. More features can be added to the next iteration of the chatbot and new evaluation metrics should be employed to improve reliability.   
