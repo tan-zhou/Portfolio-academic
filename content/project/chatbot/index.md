@@ -37,11 +37,15 @@ image:
 
 **Tools**: Google Docs, Google Slides, Google Forms, Excel, OBS Studio, AutoHotKeys, Slack
 
-**Background/Context:** In this project, the client’s request is for the team to study the usefulness of a chatbot in improving group collaboration. We grounded our research in the context of a League of Legends(LoL) game, where team collaboration is the key theme of the gameplay experience. In an LoL game, the temporarily assembled team meet various challenges in communication and coordination, such as not understanding other player’s intention or unresponded request for help. These challenges, if not resolved, could be detrimental to the team’s win in League’s fast-paced gameplay.    
+**Background/Context:** In this project, the client’s request is for the team to study the usefulness of a chatbot in improving group collaboration. We grounded our research in the context of League of Legends games (LoL), where team collaboration is the key theme of the gameplay experience. In an LoL game, the temporarily assembled team meet various challenges in communication and coordination, such as not understanding other player’s intention or unresponded request for help. These challenges, if not resolved, could be detrimental to the team’s win in League’s fast-paced gameplay.
 
 **Client:** [Dakuo Wang, IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Dakuo.Wang) 
 </br>
 </br>
+----
+</br>
+</br>
+
 ## Objective
 
 * Understand what obstacles that impede collaborations among a temporarily assembled team in a League of Legends game
@@ -49,6 +53,8 @@ image:
 * Evaluate the usability of chatbot’s 
 </br>
 </br>
+</br>
+
 ## Opportunity and Process
 
 ### Opportunity  
@@ -66,8 +72,9 @@ A varsity of UX research approaches was used to design the chatbot. 
 3. Build a chatbot prototype with learnings from the previous two steps
 4. Conducted a Wizard of Oz experiment to verify the usability of the functions
 </br>
-
 </br>
+</br>
+
 ## Strategy 
 
 ### Interview and Focus Groups 
@@ -93,8 +100,6 @@ A fundamental requirement of a Wizard of Oz study is that the participants can n
 
 One challenge for us is how can we ensure that participants won’t find out what’s behind the curtain. We leverage AutoHotKey, a scripting software that allows the test operator to send pre-scripted messages with keyboard shortcuts, to simulate the speed, accuracy, and efficiency of a real-world chatbot system. And the chatbot agent is responsible to determine when to send which message. 
 
-![](https://lh5.googleusercontent.com/gfTNg3A8O8ZXYJl1ris1Xojf1hZQJjKi5HSLfktYS9hO-NjrJ0vAMy5EHRjawZFn-KzUkyBDXxAkcIGxSbrTafWq6uIqoAjGouLFK7PVG86yzJPQtUXzvtHXUY6dKKEcAzgugp3v)![](https://lh3.googleusercontent.com/6HUbA-_na_pWHFQGG8d-iymkfzRdb-kF1kfL_jsRwd8Hliqjg5A9TVYyuvLE9KtgQggVhzvDiDluNiykf_6j1noqbnguUUPU6J7NVbgwqxOuQNEBu0UnwGduyxafbaGw4fL3o5Qz)![](https://lh3.googleusercontent.com/A4EpnAAdyDdC4sfI8MnqT1Ep3tYl1dx1ZPIU9dBQ4Is21buQp0vrpoAKwKI33tS5aK_9e752pv7SuA20gcpV8lHn3WoQB-xY5WBC6KY7P9Tmp3n872jpE0DpHV_pp613jX-nqbYt)
-
 ### User Testing
 
 1. We recruited participants via emails with deatils about the study and compensation
@@ -104,8 +109,9 @@ One challenge for us is how can we ensure that participants won’t find out wha
 
 (Testing design diagram)
 </br>
-
 </br>
+</br>
+
 ## Outcomes
 
 **Objective 1**
@@ -159,8 +165,9 @@ The chatbot was appreciated to some extent on every measured scale. Participants
 
 Players show weaker indications that they wanted to use the chatbot, that it had an effect on the game, that it helped them play “better,” that it was integrated seamlessly into the game, and that it did not interfere with their play experience.
 </br>
-
 </br>
+</br>
+
 ## Key Takeaways 
 
 ### The Positives😀:
@@ -186,8 +193,9 @@ Players show weaker indications that they wanted to use the chatbot, that it had
 
 - Reliablity: We used players' self-reported perceptions of teamwork as our measurement, which negatively impact the reliability of the methods. In retrospect, we could've used a defined set of teamwork behaviors as our metrics. 
 </br>
-
 </br>
+</br>
+
 ## Conclusion
 
 In this project, we explored the use of a chatbot in League of Legends and its influence on team collaboration in games. At the initial stage of the project, we used multiple various methods to study players’ issues and needs, including interviews, focus groups, and surveys. Later, we built a prototype based on our research results and verified the model in two rounds of user tests using the Wizard-of-Oz method. Finally, both qualitative and quantitative methods were employed in the analysis of test results. 
