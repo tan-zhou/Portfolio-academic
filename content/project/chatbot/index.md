@@ -17,7 +17,7 @@ external_link: ""
 image:
   focal_point: Smart
   preview_only: false
-  caption: "Image Credit: Riot Games, Inc."
+  caption: 'Image Credit: [**Riot Games, Inc.**](https://www.riotgames.com/en)'
 ---
 {{< toc >}} 
 

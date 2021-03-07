@@ -40,14 +40,16 @@ education:
     - course: Guest Undergradaute Student
       institution: University of Michigan - Dearborn
       year: 2015
-email: ""
+email: "tanzhouinfo@gmail.com"
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
-I'm Tan, a UX researcher with 4 years of experience conducting generative and evaluative studies based in Los Angeles. I have worked on designing more useful and engaging ways to share personal informatics data on social media and helping non-profit groups feel more confident in their interactions with stakeholders.
+Hi 👋 I'm Tan, a UX researcher located in Los Angeles with 4 years of experience conducting generative and evaluative studies. I have worked on designing more useful and engaging ways to share personal informatics data on social media and helping non-profit groups feel more confident in their interactions with stakeholders.
+
+Since Auguest 2020, I've been working with Hack for LA, a civic tech group, to optimize their volunteer onboarding process and address the new challenges that arose from having to operate remotely due to the pandemic.
 
 **Research Toolkit**: Usability Testing, Field Research, Interview, Survey, Card Sorting, Journey Map, Persona, Design Ethnography, A/B testing, Desk Research
 
-**Software**: R, C++, Survey Monkey, Figma, Miro, User Interview, UserZoom, Adobe Creative Suite, HTML, Google Suite  
+**Software**: R, Survey Monkey, Figma, Miro, User Interview, UserZoom, Adobe Creative Suite, HTML, C++, Google Suite, Excel.   
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
