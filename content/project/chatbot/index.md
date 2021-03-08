@@ -1,14 +1,15 @@
 ---
 title: "Usability Design: League of Legend Chatbot"
-date: "2019-03-07T01:00:00.000Z"
+date: "2018-03-07T01:00:00.000Z"
 tags:
 - Usability Evaluation
 - Generative Research 
 - Survey 
 - Interview
-- User Research 
+- User Research
+- Interaction Design 
 
-summary: How can the chatbot help facilitate collaborations among a temporarily
+summary: How can the chatbot help facilitate collaborations among a temporarily?
   assembled team in League of Legends?
 draft: false
 featured: false
@@ -23,17 +24,17 @@ image:
 
 ## Overview
 
-**My Role:** Lead UX Researcher in a team of 4 researchers and 2 developers. I contributed to every step of the project 
+**My Role:** Lead UX Researcher in a team of 4 researchers and 2 developers 
 
-**Project Overview:** The big overarching question is to understand: How can the chatbot help facilitate collaborations among a temporarily assembled team in League of Legends? 
+**Project Overview:** The big overarching question is to understand "How can the chatbot help facilitate collaborations among a temporarily assembled team in League of Legends?". 
 
-**Methods:** Interviews, Focus Groups, Surveys, Thematics Analysis, Observations, Moderated Usability Test, Descriptive Statistical Analysis 
+**Methods:** Interviews, Focus groups, Surveys, Thematics analysis, Observations, Moderated usability test, and Descriptive statistical analysis 
 
-**Data Sources:** Interview Transcripts, Observation Notes, Survey Result, and In-game Chat Logs 
+**Data Sources:** Interview transcripts, Observation notes, Survey result, and In-game chat logs 
 
-**Deliverables:** 1. Research report and 2. Chatbot Prototype
+**Deliverables:** Research report and Chatbot prototype
 
-**Tools**: Google Docs, Google Slides, Google Forms, Excel, OBS Studio, AutoHotKeys, Slack
+**Tools**: AutoHotKeys, League of Legend spectator mode, Google Docs, Google Slides, Google Forms, Excel, OBS Studio, and Slack
 
 **Background/Context:** In this project, the client’s request is for the team to study the usefulness of a chatbot in improving group collaboration. We grounded our research in the context of League of Legends games (LoL), where team collaboration is the key theme of the gameplay experience. In an LoL game, the temporarily assembled team meet various challenges in communication and coordination, such as not understanding other player’s intention or unresponded request for help. These challenges, if not resolved, could be detrimental to the team’s win in League’s fast-paced gameplay.
 

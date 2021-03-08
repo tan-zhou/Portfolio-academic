@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Usability Evaluation
+    tag: Userbility Evaluation, Heuristic Evaluation
+  - name: Generative Research
+    tag: Survey, Interview. User Research
+  - name: Ubiquitous Computing
+    tag: Ubiquitous Computing, Personal Informatics
+  - name: Interaction Design 
+    tag: Voice Interaction, Interaction Design 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -7,7 +7,7 @@ tags:
 - Quantitative Analysis
 - Personal Informatis
 - Ubiquitous Computing
-date: 2020-10-02T05:26:35.054Z
+date: 2020-6-02T05:26:35.054Z
 draft: false
 featured: false
 
@@ -26,13 +26,13 @@ image:
 
 **Project Overview:**  I explore design principles for incorporating self-tracked step counts in data-driven stickers as a first step towards integrating these data into Snapchat posts or Instagram Stories.
 
-**Methods:** Literature review, Survey, R, Original logistic regression, Statisitcal Modeling 
+**Methods:** Survey, R, Original logistic regression, Statisitcal modeling, and Literature review 
 
-**Data Sources:** Survey, Literature  
+**Data Sources:** Survey and Research literature  
 
-**Deliverables:** Research Report
+**Deliverables:** Research report
 
-**Tools:** R Studio, JSON, Google Docs, Photoshop, Windows Powershell 
+**Tools:** R Studio, JSON, Windows Powershell, Photoshop, and Google Doc  
 
 **Background/Context:** When people set health and behavior goals such as training for half-marathon, going to bed earlier, or losing weight, they often use social media to share their progress with friends and family ([Munson, 2012](https://ieeexplore.ieee.org/abstract/document/6240359)). [Epstein et al. (2015)](https://dl.acm.org/doi/abs/10.1145/2675133.2675135) identified that many people share personal informatics data to receive advisory information, emotional support, motivation, or accountability from their audience. However, prior research has shown that sharing data on social media is often met with ambivalence or no response at all ([Epstein, 2019](https://par.nsf.gov/biblio/10158861)). 
 </br>

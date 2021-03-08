@@ -1,8 +1,8 @@
 ---
 title: "Design Patterns: Help small non-profits build trust and engagement"
-date: 2021-03-07T06:40:41.262Z
+date: 2018-9-07T06:40:41.262Z
 summary: Design best practices for facilitating online monetary donations to
-  small charities and non-profits
+  small charities and non-profits.
 tags:
 - User Research 
 - Design Patterns
@@ -24,13 +24,13 @@ image:
 
 Project Overview: I worked as part of a team to design best practices for facilitating online monetary donations to small charities and non-profits. Through competitive analysis, interviews, and user behavior/motivations analysis pertaining to charities, we developed design patterns for non-profit organizations to increase trust and call for action within volunteers.
 
-**Methods:** `Literature review Interviews`&nbsp;&nbsp;&nbsp; `Competitive Analysis`&nbsp;&nbsp;&nbsp; `Design Patterns`&nbsp;&nbsp;&nbsp; `Desk Research`  
+**Methods:** Interviews, Competitive analysis, Design patterns, Literature review, and Desk research
 
-**Data Sources:** Interview transcripts, Literature  
+**Data Sources:** Interview transcripts and Literature  
 
-**Deliverables:** 1) Research report &nbsp;&nbsp;&nbsp; 2) Design Patterns
+**Deliverables:** Research report and Design patterns
 
-**Tools:** Google Docs, Google Slides, Google Forms
+**Tools:** Google Docs, Google Slides, and Google Forms
 
 **Background/Context:** Donors are often the core providers of resources for a charity. Without donor support, some charities are likely to quickly struggle to function and are likely to enter a path of decline. Thus, it is very important for charities to connect with their donors in order to gain their trust and motivation. This project was an attempt towards building a theory of persuasion surrounded by trust and commitment for small charity websites.
 </br>

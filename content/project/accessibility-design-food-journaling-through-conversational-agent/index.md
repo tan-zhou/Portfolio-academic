@@ -1,6 +1,6 @@
 ---
 title: "Voice Interaction Design: Food Journaling via Voice Assistant"
-date: 2021-03-07T06:32:08.689Z
+date: 2019-03-07T06:32:08.689Z
 summary: In situations when people need to track foods they eat daily via a
   voice assistant, how can we design the dialogic flow to facilitate users’
   reflections on their eating habits?
@@ -24,13 +24,13 @@ image:
 
 **My Role:** UX Researcher and Designer
 
-**Project Overview:** The overarching question is: when people track foods they eat daily (food journaling) via a voice assistant, how can we design the dialogic flow to facilitate users’ reflections on their eating habits? 
+**Project Overview:** The overarching goal is to answer the question "When people track foods they eat daily (food journaling) via a voice assistant, how can we design the dialogic flow to facilitate users’ reflections on their eating habits?". 
 
-**Methods:** `Literature Review`,&nbsp; `Interviews`,&nbsp; `Competitive Analysis`,&nbsp; `Journey Mapping`,&nbsp; `Heuristic Evalutation`
+**Methods:** Literature review, Interviews, Competitive analysis, Journey mapping, Heuristic evalutation
 
 **Data Sources:** Interview transcripts, Literature  
 
-**Deliverables:** 1. Research report&nbsp; 2. Dialogic Flow&nbsp; 3. Sample Conversations
+**Deliverables:** Research report, Dialogic flow, Sample conversations
 
 **Tools:** Google Assistant, Amazon Alexa, Google Sheet 
 
