@@ -10,7 +10,7 @@ tags:
 - User Research
 - Ubiquitous Computing
 - Competitive Analysis
-- Heuristic Evalutation
+- Heuristic Evaluation
 draft: false
 featured: false
 external_link: ""

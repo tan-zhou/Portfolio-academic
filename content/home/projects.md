@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Usability Evaluation
-    tag: Userbility Evaluation, Heuristic Evaluation
+    tag: Usability Evaluation, Heuristic Evaluation
   - name: Generative Research
-    tag: Survey, Interview. User Research
+    tag: Survey, Interview, User Research
   - name: Ubiquitous Computing
     tag: Ubiquitous Computing, Personal Informatics
   - name: Interaction Design 
@@ -45,7 +45,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

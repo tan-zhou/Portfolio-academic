@@ -3,7 +3,6 @@ title: "Usability Design: League of Legend Chatbot"
 date: "2018-03-07T01:00:00.000Z"
 tags:
 - Usability Evaluation
-- Generative Research 
 - Survey 
 - Interview
 - User Research
