@@ -1,6 +1,6 @@
 ---
 title: "Quantitative Analysis: Personal Data Sticker"
-summary: I explore design principles for incorporating self-tracked step counts in data-driven stickers as a first step towards integrating these data into Snapchat posts or Instagram Stories.
+summary: Incorporating self-tracked step counts in data-driven stickers and explored integrating personal informatics data into Snapchat posts or Instagram Stories.
 tags:  
 - Survey
 - Quantitative Analysis

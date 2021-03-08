@@ -6,7 +6,7 @@ summary: In situations when people need to track foods they eat daily via a
   reflections on their eating habits?
 tags: 
 - Voice User Interface
-- Voice Interaction
+- Interaction Design
 - User Research
 - Ubiquitous Computing
 - Competitive Analysis
