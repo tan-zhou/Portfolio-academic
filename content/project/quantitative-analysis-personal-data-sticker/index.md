@@ -1,7 +1,8 @@
 ---
 title: "Quantitative Analysis: Personal Data Sticker"
 summary: I explore design principles for incorporating self-tracked step counts in data-driven stickers as a first step towards integrating these data into Snapchat posts or Instagram Stories.
-tags: 
+tags:
+- User Research  
 - Survey
 - Quantitative Analysis
 - Personal Informatis
@@ -69,7 +70,7 @@ Through literature review, I identified a series of predictors that potentially 
 
 I draw from literature in **online advertising and multimedia study** and measure user perceptions from the following five dimensions: {{<hl>}}**Entertaining, Privacy disclosure, Intention to use, Positivity, and Informative.**{{</hl>}}
 
-> Survey questions to measure entertaining:
+Survey questions to measure entertaining:
 >- I would find this Snap fun to send.
 >- I would find this Snap fun to receive 
 

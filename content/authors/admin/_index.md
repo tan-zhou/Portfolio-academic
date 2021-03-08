@@ -6,11 +6,9 @@ bio: Understanding user experience through cnotextual researh and usability test
 interests:
   - Ubiquitous Computing
   - Personal Informatics
-  - Tech Gadgets
-  - Graphic Design
-  - Culinary Art
+  - Voice User Interface (VUI)
   - Wearable Technology
-  - Active Lifestyle
+  - Culinary Art
 social:
   - icon: linkedin
     icon_pack: fab

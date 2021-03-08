@@ -6,6 +6,7 @@ tags:
 - Generative Research 
 - Survey 
 - Interview
+- User Research 
 
 summary: How can the chatbot help facilitate collaborations among a temporarily
   assembled team in League of Legends?
