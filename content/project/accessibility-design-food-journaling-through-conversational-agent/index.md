@@ -26,11 +26,11 @@ image:
 
 **Project Overview:** The overarching question is: when people track foods they eat daily (food journaling) via a voice assistant, how can we design the dialogic flow to facilitate users’ reflections on their eating habits? 
 
-**Methods:** `Literature Review`&nbsp; `Interviews`&nbsp; `Competitive Analysis`&nbsp; `Journey Mapping`&nbsp; `Heuristic Evalutation`
+**Methods:** `Literature Review`,&nbsp; `Interviews`,&nbsp; `Competitive Analysis`,&nbsp; `Journey Mapping`,&nbsp; `Heuristic Evalutation`
 
 **Data Sources:** Interview transcripts, Literature  
 
-**Deliverables:** 1. Research report 2. Dialogic Flow 3. Sample Conversations
+**Deliverables:** 1. Research report&nbsp; 2. Dialogic Flow&nbsp; 3. Sample Conversations
 
 **Tools:** Google Assistant, Amazon Alexa, Google Sheet 
 

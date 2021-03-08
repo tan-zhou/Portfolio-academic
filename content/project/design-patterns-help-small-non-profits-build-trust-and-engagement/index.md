@@ -24,11 +24,11 @@ image:
 
 Project Overview: I worked as part of a team to design best practices for facilitating online monetary donations to small charities and non-profits. Through competitive analysis, interviews, and user behavior/motivations analysis pertaining to charities, we developed design patterns for non-profit organizations to increase trust and call for action within volunteers.
 
-**Methods:** Literature review Interviews, Competitive Analysis, Design patterns, Desk Research  
+**Methods:** `Literature review Interviews`&nbsp;&nbsp;&nbsp; `Competitive Analysis`&nbsp;&nbsp;&nbsp; `Design Patterns`&nbsp;&nbsp;&nbsp; `Desk Research`  
 
 **Data Sources:** Interview transcripts, Literature  
 
-**Deliverables:** 1) Research report, 2) Design Patterns
+**Deliverables:** 1) Research report &nbsp;&nbsp;&nbsp; 2) Design Patterns
 
 **Tools:** Google Docs, Google Slides, Google Forms
 
@@ -111,7 +111,7 @@ Our design patterns were concise and memorable with explicit descriptions of the
 
 The patterns that emerged were {{<hl>}}**“Trust through reputation”**, **“Trust through transparency”**, **“Trust through social circle”,** and **“Commitment through Engagement”**.{{</hl>}}
 
-{{< figure src="patterns.png" caption="Delivered Design Patterns">}}
+{{< figure src="poster.png" caption="Delivered Design Patterns">}}
 
 
 ## Conclusion/Reflection
