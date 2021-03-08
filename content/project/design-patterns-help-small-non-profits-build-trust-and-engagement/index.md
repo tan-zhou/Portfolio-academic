@@ -3,84 +3,90 @@ title: "Design Patterns: Help small non-profits build trust and engagement"
 date: 2021-03-07T06:40:41.262Z
 summary: Design best practices for facilitating online monetary donations to
   small charities and non-profits
+tags:
+- User Research 
+- Design Patterns
+- Desk Research
+- Competitive Analysis
+
 draft: false
 featured: false
-external_link: '""'
+external_link: ""
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  Caption: 'Image Creadit: [*method:CRM*](https://www.method.me/blog/how-to-create-online-donation-pages/)'
 ---
 ## Overview
 
-
-
-My Role: UX Researcher in a team of 5 researchers
-
-
+**My Role:** UX Researcher in a team of 5 researchers
 
 Project Overview: I worked as part of a team to design best practices for facilitating online monetary donations to small charities and non-profits. Through competitive analysis, interviews, and user behavior/motivations analysis pertaining to charities, we developed design patterns for non-profit organizations to increase trust and call for action within volunteers.
 
+**Methods:** Literature review, Interviews, Competitive Analysis, Design patterns, Desk Research  
 
+**Data Sources:** Interview transcripts, Literature  
 
-Methods: Literature review, Interviews, Competitive Analysis. Design patterns 
+**Deliverables:** 1) Research report, 2) Design Patterns
 
-Data Sources: Interview transcripts, Literature  
+**Tools:** Google Docs, Google Slides, Google Forms
 
-Skills: Interviewing, descriptive statistical analysis, thematic analysis, usability testings, survey
-
-Deliverables: 1) Research report, 2) Persona, 3) Design Patterns
-
-Tools: Google Docs, Google Slides, Google Forms
-
-
-
-Background/Context: Donors are often the core providers of resources for a charity. Without donor support, some charities are likely to quickly struggle to function and are likely to enter a path of decline. Thus, it is very important for charities to connect with their donors in order to gain their trust and motivation. This project was an attempt towards building a theory of persuasion surrounded by trust and commitment for small charity websites.
+**Background/Context:** Donors are often the core providers of resources for a charity. Without donor support, some charities are likely to quickly struggle to function and are likely to enter a path of decline. Thus, it is very important for charities to connect with their donors in order to gain their trust and motivation. This project was an attempt towards building a theory of persuasion surrounded by trust and commitment for small charity websites.
+</br>
+</br>
+{{< toc >}} 
 
 ## Objective
 
+* What stops a motivated user from making donations to small charities online? 
 * How can convert a user’s motivation to action in helping small charities online?  
 * How can we help small charities establish trust and engagement through Design?
-
-
+</br>
+</br>
 
 ## Opportunity and Process
 
 ### Opportunity
-
-We delved into persuasive design literature to create design patterns that enhance the experience for millennial when they visit small charitable websites. We recommended four design patterns concerned with converting user’s motivation into action by identifying impediments to charitable donations. The patterns that emerged were “Trust through reputation”, “Trust through transparency”, “Trust through social circle”, and “Commitment through Engagement”
-
-
-
- 
+Due to the nature of operating on donations and grants, charities are required to demonstrate their works to build trust and
+engagement with stakeholders. Research in HCI has focused on facilitating transparency and its effect in these organization (Marshall et al., [2016](https://dl.acm.org/doi/abs/10.1145/2858036.2858301), [2018](https://dl.acm.org/doi/abs/10.1145/3173574.3173849)). However, thus far there is little understanding of design implications and technical affordances to convert user motivation into calls for action.
 
 ### Process
 
 We conducted an analysis of charitable websites to understand the design process they follow to convert user motivation into calls for action. We interviewed 9 donors to understand their perspectives on these websites. From the insights we gained, we reframed our research questions and refocused our research on establishing online trust and engagement through better design. We used the persuasive design frame as a guide to frame our research question. 
 
-
+We delved into persuasive design literature and created design patterns that enhance the experience for millennial when they visit small charitable websites. We recommended four design patterns that can help convert user’s motivation into action by identifying impediments to charitable donations. 
+</br>
+</br>
 
 ## Strategy
 
-Competitive Analysis 
+### Competitive Analysis 
 
 We analyzed websites of well-establish charities to explore different donation models, including WWF, UNICEF, Facebook Fundraisers, GoFundMe, etc..  We examed their user base, information architecture, messaging approach, calls to action, emotional designs, accreditation, and social influence. The competitive analysis provides us key insights that help us in determining interview questions.
 
-
-
-Interviews 
+### Interviews 
 
 We conducted interviews with 9 individual participants who are either active online donors or have donated through these websites. The interviews highlighted the key points that either
 
 motivated or discouraged donors as they navigated through the charity online. We focused on the statement “a person donates if he or she…” and inferred a list of motivations from the interviews. We exercised inductive reasoning to detect themes from our list of motivations with respect to selected target behaviors.
 
+### Persuasive Design 
+![Fogg Behavior Model ©2007 BJ Fogg](https://behaviormodel.org/wp-content/uploads/2020/08/Fogg-Behavior-Model.jpg)
+We follow Fogg's [behavior model for persuasion](https://dl.acm.org/doi/abs/10.1145/1541948.1541999) to guide our designs that faciliatetes call for action. The behavior model highlighted accomplishment of target behavior on three factors - **motivation, ability to perform, and trigger.**
 
+There are ethical debates in using persuaive approach in
+charitable websites: 
 
-Design Patterns
+_"Is it ethical to design with the intention to encourage people to give their money, even for the purpose of'social good'?"_
+
+We do acknowledage that this could be a gray area, but argue that our design patterns are not to persuade people to donate. 
+* We want to leverage persuasive design for **potential donors** that already have **medium levels of motivation** but are **missing ability and triggers** to act on it. 
+* We also study what stops motivated people from performing actions related to donations in online platforms, and ways in which HCI can help address this gap.
+
+### Design Patterns
 
 My team developed a series of design patterns that translated our findings into executable solutions and assisted website designers and developers of small charities in converting potential donors' motivations to actions. 
-
-
 
 Patterns are structured as follow to ensure they are concise, memorable, and easy to apply:
 
@@ -89,42 +95,35 @@ Patterns are structured as follow to ensure they are concise, memorable, and eas
 * Description and discussion on solving the problem
 * Solutions that are likely to succeed
 * Solutions that are typical yet undesirable
-
-
+</br>
+</br>
 
 ## Outcomes 
 
-Trust is critical 
+**Trust is critical**
 
 * Trust is often critical when converting charitable motivations to actions
 * Monotonous, one-way interactions do not help donors help engaged or fulfilled
 
+**Concise, memorable, and applicable design patterns**
 
+Our design patterns were concise and memorable with explicit descriptions of the relevant problems and common pitfalls that should be avoided. 
 
-Concise, memorable, and applicable design patterns
+The patterns that emerged were {{<hl>}}**“Trust through reputation”**, **“Trust through transparency”**, **“Trust through social circle”,** and **“Commitment through Engagement”**.{{</hl>}}
 
-Our design patterns were concise and memorable with explicit descriptions of the relevant problems and common pitfalls that should be avoided. Patterns directly address the following donor issues
+![**Pattern 1.** Trust through reputation](https://lh5.googleusercontent.com/df2AesRWyJ0-ocx2hYCzmh4bp3xJzZcbQB64nbIUWNkdxj5PW-4gxHdgx5EaTkHmqBJNipQ8t8DA6DSSgVGYezO5FYMieftuSZkA58xeascr03L7F2A11jalmCM6EUc6qO-I7uWG)
 
+![**Pattern 2.** Trust through transparency](https://lh4.googleusercontent.com/QhDDblWsPHbgNi_c4piiVRsmkf6985k8pC7S1YsScd24yJ4drQEee074qisOuTJRGyKdLQza4Ye9tNMnm3NWWQJkK7NFy8DXfTo0GJpQKpeFkh3vG8aKdrEBrI05Gni8F-NfzXKl)
 
+![**Pattern 3.** Trust through social circle](https://lh6.googleusercontent.com/_OHI6pjAZiTiGuFRIBxY7XDkph7kbfG-Dl3s5wN4nYvUOMreXhFx_dHVfvBnXoLSEbFhU46vf-2GKQU5-I-HqBhGNLEKOuq7wH9eIal64JTq6TT_5f1P8zNBCP7A-H8-kxPbWme4)
 
-![](https://lh5.googleusercontent.com/df2AesRWyJ0-ocx2hYCzmh4bp3xJzZcbQB64nbIUWNkdxj5PW-4gxHdgx5EaTkHmqBJNipQ8t8DA6DSSgVGYezO5FYMieftuSZkA58xeascr03L7F2A11jalmCM6EUc6qO-I7uWG)![](https://lh4.googleusercontent.com/QhDDblWsPHbgNi_c4piiVRsmkf6985k8pC7S1YsScd24yJ4drQEee074qisOuTJRGyKdLQza4Ye9tNMnm3NWWQJkK7NFy8DXfTo0GJpQKpeFkh3vG8aKdrEBrI05Gni8F-NfzXKl)
-
-![](https://lh6.googleusercontent.com/_OHI6pjAZiTiGuFRIBxY7XDkph7kbfG-Dl3s5wN4nYvUOMreXhFx_dHVfvBnXoLSEbFhU46vf-2GKQU5-I-HqBhGNLEKOuq7wH9eIal64JTq6TT_5f1P8zNBCP7A-H8-kxPbWme4)
-
-![](https://lh6.googleusercontent.com/lc3ygF4dGW42M28tVaZL6_jYUWA8S6KM5dJ7lXz4AlcpdfAn7KIKKGDVWVJpyfLREkwevGSuOIJi3Ty7wkZAwJ2RAm6MCLkY_nrNZ1lKtFVzsXf403-imLR56Axfw8OJ2dXGXZHc)
-
+![**Pattern 4.** Commitment through Engagement](https://lh6.googleusercontent.com/lc3ygF4dGW42M28tVaZL6_jYUWA8S6KM5dJ7lXz4AlcpdfAn7KIKKGDVWVJpyfLREkwevGSuOIJi3Ty7wkZAwJ2RAm6MCLkY_nrNZ1lKtFVzsXf403-imLR56Axfw8OJ2dXGXZHc)
 
 
 ## Conclusion/Reflection
 
 In this project, we conducted competitive analysis, interviews and analyzed user behavior/motivations pertaining to charities. We developed design patterns for non-profit organizations to increase trust and call for action within volunteers.
 
-
-
 Although designs from the patterns may contribute to the increasing in the call for actions by building trust and commitment, this effect is not guaranteed.
 
-We look forward to extending the design patterns to incorporate other factors that are
-
-responsible for designing a charitable website. Considering these discussions, we will conduct more user studies to develop more design patterns, eventually forming a pattern language to convert motivation into action on charitable websites. The language will be
-
-distributed to researchers, designers, developers, and teachers for further validation and expansion. We hope that the language will nd a place in the design process of charitable websites and will contribute to the area of design for the call for action.
+We look forward to extending the design patterns to incorporate other factors that are responsible for designing a charitable website. Considering these discussions, we will conduct more user studies to develop more design patterns, eventually forming a pattern language to convert motivation into action on charitable websites. We hope that the language will earn a place in the design process of charitable websites and will contribute to the area of design for the call for action.
