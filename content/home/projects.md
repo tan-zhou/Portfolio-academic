@@ -27,14 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Usability Evaluation
-    tag: 'Usability Evaluation', 'Heuristic Evaluation'
+  - name: Evaluative Research
+    tag: Usability Evaluation
   - name: Generative Research
-    tag: 'Survey', 'Interview', 'User Research'
+    tag: User Research
   - name: Ubiquitous Computing
-    tag: 'Ubiquitous Computing', 'Personal Informatics'
+    tag: Ubiquitous Computing
   - name: Interaction Design 
-    tag: 'Voice Interaction', 'Interaction Design' 
+    tag: Interaction Design 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -11,6 +11,7 @@ tags:
 - Ubiquitous Computing
 - Competitive Analysis
 - Heuristic Evaluation
+- Usability Evaluation
 draft: false
 featured: false
 external_link: ""
