@@ -28,13 +28,13 @@ content:
   - name: All
     tag: '*'
   - name: Usability Evaluation
-    tag: Usability Evaluation, Heuristic Evaluation
+    tag: 'Usability Evaluation', 'Heuristic Evaluation'
   - name: Generative Research
-    tag: Survey, Interview, User Research
+    tag: 'Survey', 'Interview', 'User Research'
   - name: Ubiquitous Computing
-    tag: Ubiquitous Computing, Personal Informatics
+    tag: 'Ubiquitous Computing', 'Personal Informatics'
   - name: Interaction Design 
-    tag: Voice Interaction, Interaction Design 
+    tag: 'Voice Interaction', 'Interaction Design' 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
