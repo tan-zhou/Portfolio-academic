@@ -24,7 +24,7 @@ image:
 
 Project Overview: I worked as part of a team to design best practices for facilitating online monetary donations to small charities and non-profits. Through competitive analysis, interviews, and user behavior/motivations analysis pertaining to charities, we developed design patterns for non-profit organizations to increase trust and call for action within volunteers.
 
-**Methods:** Literature review, Interviews, Competitive Analysis, Design patterns, Desk Research  
+**Methods:** Literature review Interviews, Competitive Analysis, Design patterns, Desk Research  
 
 **Data Sources:** Interview transcripts, Literature  
 
@@ -78,9 +78,9 @@ We follow Fogg's [behavior model for persuasion](https://dl.acm.org/doi/abs/10.1
 There are ethical debates in using persuaive approach in
 charitable websites: 
 
-_"Is it ethical to design with the intention to encourage people to give their money, even for the purpose of'social good'?"_
+_"Is it ethical to design with the intention to encourage people to give their money, even for the purpose of social good?"_
 
-We do acknowledage that this could be a gray area, but argue that our design patterns are not to persuade people to donate. 
+We do acknowledage that this is a gray area, but argue that our goal for design patterns is not to persuade people to donate. 
 * We want to leverage persuasive design for **potential donors** that already have **medium levels of motivation** but are **missing ability and triggers** to act on it. 
 * We also study what stops motivated people from performing actions related to donations in online platforms, and ways in which HCI can help address this gap.
 
@@ -111,13 +111,7 @@ Our design patterns were concise and memorable with explicit descriptions of the
 
 The patterns that emerged were {{<hl>}}**“Trust through reputation”**, **“Trust through transparency”**, **“Trust through social circle”,** and **“Commitment through Engagement”**.{{</hl>}}
 
-![**Pattern 1.** Trust through reputation](https://lh5.googleusercontent.com/df2AesRWyJ0-ocx2hYCzmh4bp3xJzZcbQB64nbIUWNkdxj5PW-4gxHdgx5EaTkHmqBJNipQ8t8DA6DSSgVGYezO5FYMieftuSZkA58xeascr03L7F2A11jalmCM6EUc6qO-I7uWG)
-
-![**Pattern 2.** Trust through transparency](https://lh4.googleusercontent.com/QhDDblWsPHbgNi_c4piiVRsmkf6985k8pC7S1YsScd24yJ4drQEee074qisOuTJRGyKdLQza4Ye9tNMnm3NWWQJkK7NFy8DXfTo0GJpQKpeFkh3vG8aKdrEBrI05Gni8F-NfzXKl)
-
-![**Pattern 3.** Trust through social circle](https://lh6.googleusercontent.com/_OHI6pjAZiTiGuFRIBxY7XDkph7kbfG-Dl3s5wN4nYvUOMreXhFx_dHVfvBnXoLSEbFhU46vf-2GKQU5-I-HqBhGNLEKOuq7wH9eIal64JTq6TT_5f1P8zNBCP7A-H8-kxPbWme4)
-
-![**Pattern 4.** Commitment through Engagement](https://lh6.googleusercontent.com/lc3ygF4dGW42M28tVaZL6_jYUWA8S6KM5dJ7lXz4AlcpdfAn7KIKKGDVWVJpyfLREkwevGSuOIJi3Ty7wkZAwJ2RAm6MCLkY_nrNZ1lKtFVzsXf403-imLR56Axfw8OJ2dXGXZHc)
+{{< figure src="patterns.png" caption="Delivered Design Patterns">}}
 
 
 ## Conclusion/Reflection
