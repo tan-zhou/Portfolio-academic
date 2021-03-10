@@ -117,7 +117,7 @@ In this five-stage personal informatics model proposed by [Li et al.(2010)](http
 
 
 
-The logic flow of conversation shows four stages of the voice-based foo journaling system. In the beginning, users start to engage with the voice assistant by saying specific trigger words just like other voice-triggered voice assistants. In the collection phase, different approaches are taken for novices and experts. The reflection stage suggests a multimodal approach – short-term reflection is embedded in the conversation while long-term reflection relies on reports and visualizations after the food records are synced to another display. At the final stage, users could take actions after they reflect on their food journal to correct something that incorrectly recorded via speech, set a shortcut for more efficient interaction, or explore new actions they just find out.
+The logic flow of conversation shows four stages of the voice-based food journaling system. In the beginning, users start to engage with the voice assistant by saying specific trigger words just like other voice-triggered voice assistants. In the collection phase, different approaches are taken for novices and experts. The reflection stage suggests a multimodal approach – short-term reflection is embedded in the conversation while long-term reflection relies on reports and visualizations after the food records are synced to another display. At the final stage, users could take actions after they reflect on their food journal to correct something that incorrectly recorded via speech, set a shortcut for more efficient interaction, or explore new actions they just find out.
 
 
 ### Sample Conversations

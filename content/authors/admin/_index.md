@@ -2,7 +2,7 @@
 title: Tan Zhou
 role: UX Researcher
 avatar_filename: avatar.jpg
-bio: Understanding user experience through cnotextual researh and usability tests.
+bio: Understanding user experience through contextual research and usability tests.
 interests:
   - Ubiquitous Computing
   - Personal Informatics
