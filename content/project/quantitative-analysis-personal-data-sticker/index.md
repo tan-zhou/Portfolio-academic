@@ -66,11 +66,11 @@ Through literature review, I identified a series of predictors that potentially 
 
 ## Strategy
 
-|             | Domain-relevant       | Domain-irrelevant     |
-|-------------|-----------------------|-----------------------|
-| Badge       | ![](badge1.png)       | ![](badge2.png)       |
-| Embellished | ![](emballished1.png) | ![](emballished2.png) |
-| Analogy     | ![](analogy1.png)     | ![](analogy2.png)     |
+|             | Domain-relevant                 | Domain-irrelevant               |
+|-------------|---------------------------------|---------------------------------|
+| Badge       | {{< figure src="badge1.png" >}} | {{< figure src="badge1.png" >}} |
+| Embellished | {{< figure src="badge1.png" >}} | {{< figure src="badge1.png" >}} |
+| Analogy     | {{< figure src="badge1.png" >}} | {{< figure src="badge1.png" >}} |
 
 ### User Perception measurements
 
