@@ -66,6 +66,12 @@ Through literature review, I identified a series of predictors that potentially 
 
 ## Strategy
 
+|             | Domain-relevant       | Domain-irrelevant     |
+|-------------|-----------------------|-----------------------|
+| Badge       | ![](badge1.png)       | ![](badge2.png)       |
+| Embellished | ![](emballished1.png) | ![](emballished2.png) |
+| Analogy     | ![](analogy1.png)     | ![](analogy2.png)     |
+
 ### User Perception measurements
 
 I draw from literature in **online advertising and multimedia study** and measure user perceptions from the following five dimensions: {{<hl>}}**Entertaining, Privacy disclosure, Intention to use, Positivity, and Informative.**{{</hl>}}
