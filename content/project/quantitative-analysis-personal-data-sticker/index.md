@@ -68,7 +68,7 @@ Through literature review, I identified a series of predictors that potentially 
 
 |             | Domain-relevant                       | Domain-irrelevant                     |
 |-------------|---------------------------------------|---------------------------------------|
-| Badge       | {{< figure src="badge1.png" >}}       | {{< figure src="badge2.png" >}}       |
+| Badge       | {{< figure src="badge1.png" height="50%" width="50%">}}       | {{< figure src="badge2.png" height="50%" width="50%">}}       |
 | Embellished | {{< figure src="embellished1.png" >}} | {{< figure src="embellished2.png" >}} |
 | Analogy     | {{< figure src="analogy1.png" >}}     | {{< figure src="analogy2.png" >}}     |
 
