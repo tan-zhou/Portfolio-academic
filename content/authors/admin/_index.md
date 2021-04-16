@@ -6,7 +6,7 @@ bio: Understanding user experience through contextual research and usability tes
 interests:
   - Ubiquitous Computing
   - Personal Informatics
-  - Voice User Interface (VUI)
+  - Social Computing
   - Wearable Technology
   - Culinary Art
 social:
@@ -42,12 +42,12 @@ email: "tanzhouinfo@gmail.com"
 superuser: true
 highlight_name: true
 ---
-Hi 👋 I'm Tan, a UX researcher located in Los Angeles with 4 years of experience conducting generative and evaluative studies. My work helps inform design decisions and forge new opportunities to improves user experience through the rigorous study of people and information systems.
+Hi 👋 I'm Tan, a UX researcher located in Los Angeles with 4 years of experience conducting generative and evaluative studies. My work helps inform design decisions and forge new opportunities to improves user experience through rigorous studies of people and information systems.
 
-Since Auguest 2020, I've been working with Hack for LA, a civic tech group, to optimize their volunteer onboarding process and address the new challenges that arose from having to operate remotely due to the pandemic.
+Since August 2020, I've been working with Hack for LA, a civic tech group, to optimize their volunteer onboarding process and address the new challenges that arose from having to operate remotely due to the pandemic.
 
-**Research Toolkit**: Usability Testing, Field Research, Interview, Survey, Card Sorting, Journey Map, Persona, Design Ethnography, A/B testing, Desk Research
+**Research Toolkit**: Usability Testing, Field Research, Interview, Survey, Card Sorting, Journey Map, Persona, Design Ethnography, A/B testing, Desk Research, 
 
-**Software**: R, Survey Monkey, Figma, Miro, User Interview, UserZoom, Adobe Creative Suite, HTML, C++, Google Suite, Excel.   
+**Software**: R, SurveyMonkey, Qualtrics, UserTesting, UserZoom, UserZoom Go, Figma, Miro, User Interview, Adobe Creative Suite, HTML, C++, Google Suite, Excel.   
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

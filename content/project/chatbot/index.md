@@ -1,5 +1,5 @@
 ---
-title: "Usability Design: League of Legend Chatbot"
+title: "Usability Study: League of Legends Chatbot"
 date: "2018-03-07T01:00:00.000Z"
 tags:
 - Usability Evaluation
@@ -8,7 +8,7 @@ tags:
 - User Research
 - Interaction Design 
 
-summary: How can the chatbot help facilitate collaborations among a temporarily assembled team in League of Legends?
+summary: How can a chatbot help facilitate collaborations among a temporarily assembled team in League of Legends?
 draft: false
 featured: false
 external_link: ""
@@ -30,7 +30,7 @@ image:
 
 **Deliverables:** Research report and Chatbot prototype
 
-**Tools**: AutoHotKeys, League of Legend spectator mode, Google Docs, Google Slides, Google Forms, Excel, OBS Studio, and Slack
+**Tools**: AutoHotKeys, League of Legends spectator mode, Google Docs, Google Slides, Google Forms, Excel, OBS Studio, and Slack
 
 **Background/Context:** In this project, the client requested our team study the usefulness of a chatbot for improving group collaboration. We grounded our research in the context of League of Legends games, where team collaboration is the key theme of the gameplay experience. In an LoL game, the temporarily assembled team encounters various challenges in communicating and coordinating, e.g. not understanding other player’s intentions, requests for help going unanswered. These challenges, if not resolved, could be detrimental to the team in League of Legends’ fast-paced gameplay.
 
