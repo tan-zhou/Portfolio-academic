@@ -46,7 +46,7 @@ Hi 👋 I'm Tan, a UX researcher located in Los Angeles with 4 years of experien
 
 Since August 2020, I've been working with Hack for LA, a civic tech group, to optimize their volunteer onboarding process and address the new challenges that arose from having to operate remotely due to the pandemic.
 
-**Research Toolkit**: Usability Testing, Field Research, Interview, Survey, Card Sorting, Journey Map, Persona, Design Ethnography, A/B testing, Desk Research, 
+**Research Toolkit**: Usability Testing, Field Research, Interview, Survey, Card Sorting, Journey Map, Persona, Design Ethnography, A/B testing, Desk Research. 
 
 **Software**: R, SurveyMonkey, Qualtrics, UserTesting, UserZoom, UserZoom Go, Figma, Miro, User Interview, Adobe Creative Suite, HTML, C++, Google Suite, Excel.   
 
