@@ -43,10 +43,8 @@ image:
 
 ## Objective
 
-When users send or receive Snapchat stickers containing their personal step count data, _what factors influence the users’ perceptions of those stickers? And how do these factors actually impact the users’ perceptions?_ 
+When users send or receive Snapchat stickers containing their personal step count data, **what factors influence the users’ perceptions of those stickers? And how do these factors actually impact the users’ perceptions?** 
 
-
-</br>
 </br>
 
 ## Opportunity and Process
@@ -70,15 +68,18 @@ Through a review of research on multimedia and online advertising, I identified 
 I used a factorial study design to evaluate varying levels of context, presentation, and style’s influence on participant perception and preference. After they consented to participate in the study, participants were asked to identify one person who they frequently Snap with to imagine as their conversation partner. They then gave feedback on six (6) randomly generated posts featuring data-driven stickers, answering some demographic questions upon completion.
 
 The post generated varied on three dimensions:
+
 **Presentation styles**
 * Badge style annotates objects with the specific tracked value, for example a shoe or ribbon with “5,793 steps” written on it. 
 * Embellished style presents common objects as charts, picking one dimension to be the axis and shading the object partway according to the tracked value.
 * Analogy style re-expresses tracked values as better-known quantities through comparisons. 
+
 **Relevance levels** 
 * Domain-relevant
   Domain-relevant designs use objects or comparisons specifically related to steps, such as snicker,  track field.  
 * Domain-irrelevant
   Domain-irrelevant designs use well-known objects and comparisons that are not commonly associated with steps, such as a star or a speedometer. 
+
 **Background styles**
 * Background of the post is a photo of specific scenario
 * Background is from [public CSS patterns](https://leaverou.github.io/css3patterns/) with abstract shapes  
