@@ -96,10 +96,15 @@ The post generated varied on three dimensions:
 
 Participants answered questions from four widely-used scales from online marketing and advertising literature, modified to this context.
 The validated scale measures:
+
 **Entertainment Value:**  how entertaining the shared content is
+
 **Attitude:** attitude toward the content 
+
 **Intention to use:** How inclined a user find to use this feature
+
 **Information Value:** how informative a user find receiving the content 
+
 **Privacy Considerations:** how invasive the a user find sharing the content 
  
 Participants answered each question on a 7-item Likert scale with endpoints “Strongly Disagree” and “Strongly Agree”.’ 
