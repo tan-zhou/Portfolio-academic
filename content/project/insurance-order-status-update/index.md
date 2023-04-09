@@ -41,14 +41,13 @@ After receiving anecdotal comments, the product team wanted to design a page to 
 
 ## Process
 
-To better understand the research request and define the problem statement, I started by interviewing the Product team members with the following line of questions:
+I started by interviewing the Product team members to better understand the research request and define the problem statements. Some of questions I asked include:
 
 >- What information do you need to have to feel confident to start the project? 
 >- What do you know about our users’ preferences around this topic, and what are we not yet sure about?
 >- Are there competitive examples of what we’re building that we should take a look at?
 >- Do we understand how this information is being communicated to users currently? Through what channels?
 >- Who are the difference user segments at play in your opinions?
->- …
 
 To achieve this, I drafted research objectives and proposed a research plan to conduct 1:1 interviews with the targeting use segments. The plan involved recruiting 12 participants with different levels of product expertise and from different states, as the types of information in users' order updates for this insurnace product vary greatly by state. I then invited them to participate in remote interview sessions via UserZoom, and key stakeholders were encouraged to join and observe the sessions.
 
