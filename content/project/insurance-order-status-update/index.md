@@ -41,7 +41,7 @@ After receiving anecdotal comments, the product team wanted to design a page to 
 
 ## Process
 
-I started by interviewing the Product team members to better understand the research request and define the problem statements. Some of questions I asked include:
+I started by interviewing the Product team members to better understand the research request and define the problem statements. Some of the questions I asked include:
 
 >- What information do you need to have to feel confident to start the project? 
 >- What do you know about our users’ preferences around this topic, and what are we not yet sure about?
