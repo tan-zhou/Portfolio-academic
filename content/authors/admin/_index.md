@@ -43,9 +43,9 @@ highlight_name: true
 ---
 Hi 👋,
 
-I'm Tan, a UX researcher located in Long Beach, California. My work helps inform design decisions and forge new opportunities to improves user experience through rigorous studies of people and information systems. In my current role, I support Agile development teams on enterprise software. 
+I'm Tan, a UX researcher located in Long Beach, California. My work helps inform design decisions and forge new opportunities to improve user experience through rigorous studies of people and information systems. In my current role, I support Agile development teams on enterprise software. 
 
-**Research Toolkit**: User Interview, Usability Testing, Concept Testing, Design Validation, Field Research, Survey, Tree Testing, Click Teesting, Card Sorting, Journey Map, Persona, A/B testing, Desk Research. 
+**Research Toolkit**: User Interview, Usability Testing, Concept Testing, Design Validation, Field Research, Survey, Tree Testing, Click Testing, Card Sorting, Journey Map, Persona, A/B testing, Desk Research. 
 
 **Software**: UserZoom, Maze, SurveyMonkey, Figma, Miro, User Interview, Microsoft Office Suite, Adobe Creative Suite, R, HTML, C++, Google Suite.  
 
