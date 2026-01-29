@@ -31,7 +31,7 @@ image:
 
 ### Business & product challenge
 
-{{< figure src="problem-visual.png" caption="Before: Document coordiantion lived in email threads and attachments - forcing manual tracking, follow-ups, and low confidence in "what's latest"." >}}
+![Before: Document coordination lived in email threads and attachments—forcing manual tracking, follow-ups, and low confidence in "what's latest".](problem-visual.png)
 
 In complex, high-stakes transactions, “documents” aren’t a feature—they’re the operating system. Internal teams and external clients must request, collect, verify, and reference dozens of items across multiple parties, deadlines, and handoffs.
 
